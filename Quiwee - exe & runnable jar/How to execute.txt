@@ -1,0 +1,4 @@
+1. Download the folder "Quiwee - exe & runnable jar"
+2. Execute Quiwee through the exe. file / runnable jar.
+
+Note: '/res' and '/Quiwee_lib' folders are required in the same folder as the execute files.
