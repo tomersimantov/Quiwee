@@ -1,3 +1,3 @@
 # Quiwee
 Queue Management System
-<img src="https://pastepixel.com/image/aAS3FEw5WUueX9DtA5tN.png" alt=""/>
+<img src="https://pastepixel.com/image/q4ue74nuXY32UxZZfMtU.png" alt=""/>
