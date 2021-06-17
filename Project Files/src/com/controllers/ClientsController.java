@@ -19,7 +19,7 @@ import com.data.tables.ClientsTable;
  * Key arguments:
  * 		1. String - phone number
  * 
- * @author Niv Kor
+ * 
  */
 public class ClientsController extends Controller<Client>
 {
